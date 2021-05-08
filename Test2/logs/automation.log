@@ -7,3 +7,6 @@
 21/05/08 23:22:33 DEBUG tests.TestSelenium: finish test
 21/05/08 23:26:30 TRACE tests.TestSelenium: URL of the driver: https://www.google.com/?gws_rd=ssl
 21/05/08 23:26:32 DEBUG tests.TestSelenium: finish test
+21/05/08 23:39:37 TRACE tests.TestSelenium: URL of the driver: https://www.google.com/?gws_rd=ssl
+21/05/08 23:39:39 DEBUG tests.TestSelenium: finish test
+21/05/08 23:39:39 DEBUG tests.TestSelenium: finish test
