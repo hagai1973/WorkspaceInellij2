@@ -53,6 +53,8 @@ public class TestSelenium {
     @AfterEach
     void afterEach() {
         logger.debug("finish test");
+        logger.debug("finish test");
+
         driver.quit();
     }
 }
