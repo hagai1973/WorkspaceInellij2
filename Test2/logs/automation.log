@@ -1,1 +1,9 @@
 21/05/08 22:07:08 TRACE tests.TestSelenium: URL of the driver: https://www.google.com/?gws_rd=ssl
+21/05/08 23:15:57 TRACE tests.TestSelenium: URL of the driver: https://www.google.com/?gws_rd=ssl
+21/05/08 23:15:59 DEBUG tests.TestSelenium: finish test
+21/05/08 23:16:26 TRACE tests.TestSelenium: URL of the driver: https://www.google.com/?gws_rd=ssl
+21/05/08 23:16:28 DEBUG tests.TestSelenium: finish test
+21/05/08 23:22:31 TRACE tests.TestSelenium: URL of the driver: https://www.google.com/?gws_rd=ssl
+21/05/08 23:22:33 DEBUG tests.TestSelenium: finish test
+21/05/08 23:26:30 TRACE tests.TestSelenium: URL of the driver: https://www.google.com/?gws_rd=ssl
+21/05/08 23:26:32 DEBUG tests.TestSelenium: finish test
